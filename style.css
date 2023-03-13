@@ -1,6 +1,12 @@
-p{
-    text-align:	center;
- }
 body{
-	background-color: #f0f0f0;
+background: black;
+color: white;
+}
+p{
+	text-align:	center;
+}
+em strong{
+	color:#ff0000;
+}
+h1{ color: #00ff00;
 }
