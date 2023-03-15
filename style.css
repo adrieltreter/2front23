@@ -10,3 +10,10 @@ em strong{
 }
 h1{ color: #00ff00;
 }
+.items{
+	font-style: italic;
+	list-style: none;
+}
+#beneficios{
+	width:100%;
+}
