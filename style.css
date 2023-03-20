@@ -2,13 +2,13 @@ body{
 background: black;
 color: white;
 }
-p{
+p,centralizar{
 	text-align:	center;
 }
 em strong{
 	color:#ff0000;
 }
-h1{ color: #00ff00;
+h1,h2{ color: #00ff00;
 }
 .items{
 	font-style: italic;
