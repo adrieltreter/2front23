@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(241, 241, 241);
+}
+nav li{
+    display:    inline-block;
+    padding:15px
+}
+nav li a{
+    text-decoration:none ;
+    color: black;
+    front-size:22px;
+    front-weigth:bold;
+    text-transform:uppercase
+}
