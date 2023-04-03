@@ -8,7 +8,19 @@ nav li{
 nav li a{
     text-decoration:none ;
     color: black;
-    front-size:22px;
-    front-weigth:bold;
+    font-size:22px;
+    font-weight: bold;
     text-transform:uppercase
+}
+header{
+    background-color: rgb(175, 123, 123);
+    padding: 20px 0;
+}
+.content{
+    width:940px;
+    margin:0 auto;
+}
+nav{
+    float:rigth;
+    margin-top:70px;
 }
