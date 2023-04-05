@@ -5,7 +5,7 @@ nav li{
     display:    inline-block;
     padding:15px
 }
-nav li a{
+nav  a  {
     text-decoration:none ;
     color: black;
     font-size:22px;
@@ -21,6 +21,6 @@ header{
     margin:0 auto;
 }
 nav{
-    float:rigth;
+    float:right;
     margin-top:70px;
 }

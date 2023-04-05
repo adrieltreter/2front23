@@ -1,3 +1,9 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
 body{
 background: black;
 color: white;
@@ -9,6 +15,11 @@ em strong{
 	color:#ff0000;
 }
 h1,h2{ color: #00ff00;
+
+}
+
+#banner{
+	width: 100%;
 }
 .items{
 	font-style: italic;
