@@ -61,7 +61,6 @@ nav{
     font-size:18px;
 }
 .content{
-    text-align: center;
 }
 .produtos ul{
     width: 40px;
@@ -75,10 +74,26 @@ nav{
 
 footer{
     text-align: center;
-    background-color:url("imagens/bg.jpg");
+    background:url("imagens/bg.jpg");
     padding: 40px 0;
     color: #e7e7e7;
 }
 main{
     color: #e7e7e7;
 }
+form{
+    margin:40px 0   q;
+}
+label{
+    font-size:25px
+}
+input{
+    padding: 10px 25px;
+    width: 50%;
+}
+button{
+    display: inline-block;
+    width:150px;
+    padding: 10px;
+}
+
