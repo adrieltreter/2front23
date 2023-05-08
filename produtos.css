@@ -61,6 +61,7 @@ nav{
     font-size:18px;
 }
 .content{
+    padding: 20px; 
 }
 .produtos ul{
     width: 40px;
@@ -85,9 +86,9 @@ form{
     margin:40px 0   q;
 }
 label{
-    font-size:25px
+    font-size:30px
 }
-input{
+input,select{
     padding: 10px 25px;
     width: 50%;
 }
@@ -95,5 +96,13 @@ button{
     display: inline-block;
     width:150px;
     padding: 10px;
+}
+form label,form p{
+    display: block;
+    font-size: 20px;
+    margin: 10px 0  10px;
+}
+form label{
+    width: 200px;
 }
 
